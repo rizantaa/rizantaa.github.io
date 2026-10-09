@@ -2,7 +2,7 @@
 
 Website portofolio pribadi **IT Support & Network Engineer** yang statis (HTML/CSS/JS), dark mode, dwibahasa **Indonesia/English**, dan dihosting di GitHub Pages.
 
-🌐 **URL:** `https://rizantaridho.github.io`
+🌐 **URL:** `https://rizantaa.github.io`
 
 ---
 
@@ -63,17 +63,17 @@ en: { about_text: "Put your English text here ..." }
 ## 🚀 Publikasi ke GitHub Pages
 
 1. **Buat akun GitHub** (jika belum) di github.com
-2. **Buat repository baru** bernama persis: `rizantaridho.github.io` (harus sesuai username)
+2. **Buat repository baru** bernama persis: `rizantaa.github.io` (harus sesuai username)
 3. **Upload semua file** di folder ini ke repository (bisa via web atau Git):
    ```bash
    git init
    git add .
    git commit -m "Portfolio v1"
    git branch -M main
-   git remote add origin https://github.com/rizantaa/rizantaridho.github.io.git
+   git remote add origin https://github.com/rizantaa/rizantaa.github.io.git
    git push -u origin main
    ```
-4. Website otomatis aktif di: **https://rizantaridho.github.io** (beberapa menit)
+4. Website otomatis aktif di: **https://rizantaa.github.io** (beberapa menit)
 
 > Jika sudah punya repo lain (bukan `<username>.github.io`): buka **Settings → Pages → Source: Deploy from a branch → Branch: main → Save**.
 
