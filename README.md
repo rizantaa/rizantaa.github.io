@@ -11,7 +11,7 @@ Website portofolio pribadi **IT Support & Network Engineer** yang statis (HTML/C
 - 🌙 Dark mode modern dengan aksen gradient (sky → indigo)
 - 🇮🇩/🇬🇧 Tombol ganti bahasa tanpa reload (disimpan di `localStorage`)
 - 📱 Responsif mobile-first (ramah dibuka dari HP HRD)
-- 📄 Tombol **Download CV** — versi Indonesia & English (PDF)
+- 📄 Tombol Download CV - versi Indonesia & English (PDF)
 - 🔍 SEO meta + Open Graph (pratinjau rapi saat link ditempel di LinkedIn/Jobstreet)
 - 🎞️ Animasi reveal saat scroll, scrollspy navbar, menu hamburger mobile
 
@@ -43,7 +43,7 @@ Website portofolio pribadi **IT Support & Network Engineer** yang statis (HTML/C
 
 Semua teks website ada di **`assets/js/i18n.js`** dalam dua bagian: `id` dan `en`.
 
-Contoh — ganti teks profil:
+Contoh - ganti teks profil:
 
 ```js
 id: { about_text: "Masukkan teks Indonesia di sini ..." },
